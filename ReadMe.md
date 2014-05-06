@@ -3,6 +3,7 @@
 ## Features
 
 The GeoSearch Input Tool is intended to be used as part of a larger model, as it allows the user to input an address that is converted to a geometry object.
+
 1. Takes a specified address as input.
 2. Issues a geocoding request to the Esri World Geocoding Service and captures the response.
 3. Parces, processes, and creates point geometry representing the best match to the input address. 
